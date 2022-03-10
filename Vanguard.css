@@ -1,0 +1,17 @@
+body {
+    background-image: url(COD-Vanguard-1.jpg);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2, h3 {
+    font-size: italic;
+    font-variant-caps: all-petite-caps;
+}
+
+h1, h2, h3, p{
+    color: cornsilk;
+}
